@@ -4,6 +4,7 @@
 
 layout: default
 ---
+![Windows Blue Screen](bluescreen.jpg "Windows Blue Screen")
 
 # What is CrowdStrike bug
 
@@ -79,6 +80,9 @@ Note: Use a different OS version for the VirtualMachine used as the recovery VM 
 ## Azure environments:
 
 [Please see this Microsoft article](https://azure.status.microsoft/en-gb/status)
+
+## Google Cloud
+[https://status.cloud.google.com/incidents/DK3LfKowzJPpZq4Q9YqP](https://status.cloud.google.com/incidents/DK3LfKowzJPpZq4Q9YqP)
 
 ## User Access to Recovery Key in the Workspace ONE Portal
 
