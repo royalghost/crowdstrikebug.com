@@ -27,3 +27,7 @@ permalink: /lessonslearned/
 ## Financial 
 - Stock Price
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Will Crowdstrike bricking all these computers have a significant long-term impact on the stock price?<br><br>Or will this be like basically every other outage or breach, where &quot;the market&quot; quickly realizes that customers don&#39;t care and regulatory action isn&#39;t forthcoming?</p>&mdash; Dan Luu (@danluu) <a href="https://twitter.com/danluu/status/1814420414065496239?ref_src=twsrc%5Etfw">July 19, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+## Public Policy
+- Industry Concentration 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">1. All too often these days, a single glitch results in a system-wide outage, affecting industries from healthcare and airlines to banks and auto-dealers. Millions of people and businesses pay the price. <br><br>These incidents reveal how concentration can create fragile systems.</p>&mdash; Lina Khan (@linakhanFTC) <a href="https://twitter.com/linakhanFTC/status/1814395610788929649?ref_src=twsrc%5Etfw">July 19, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
