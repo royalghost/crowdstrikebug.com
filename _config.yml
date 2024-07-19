@@ -29,10 +29,13 @@ github_username:
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
 
 google_analytics: G-5T55E5M3QX
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
